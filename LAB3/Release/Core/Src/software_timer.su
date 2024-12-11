@@ -1,0 +1,6 @@
+software_timer.c:6:6:set_timer	0	static
+software_timer.c:12:6:set_timer1	0	static
+software_timer.c:17:6:clear_timer	0	static
+software_timer.c:22:5:get_time_of_counter	0	static
+software_timer.c:26:5:is_timer_timeout	0	static
+software_timer.c:33:6:timer_run	8	static
